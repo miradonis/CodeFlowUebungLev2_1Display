@@ -1,0 +1,22 @@
+article {
+    width: 350px;
+    height: 180px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 120px;
+}
+
+article h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+article ul {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+article ul li {
+    list-style-type: none;
+}
